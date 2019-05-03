@@ -1,5 +1,4 @@
 import { Action } from '@ngrx/store';
-import { type } from 'os';
 
 export const AGREGAR_TODO = '[TODO] Agretar tarea';
 export const COMPLETAR_TODO = '[TODO] Cambiar status de tarea';
